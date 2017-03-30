@@ -9,3 +9,13 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# CD
+```
+cd Desktop
+```
+* something something
+  * somthing else
+* something
+  * something else
+  
